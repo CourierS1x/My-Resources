@@ -3,7 +3,7 @@ Collection of all of the resources that are relevant to me as a security profess
 
 Table of Contents:
 
-Awesome lists
+* Awesome lists
 Books
 Bug bounty
 Cheat sheets
