@@ -1,3 +1,31 @@
+## Favorites
+Name | URL
+------------------------------------ | ---------------------------------------------
+GreyNoise | https://greynoise.io
+URLScan | https://urlscan.io
+Censys | https://censys.io
+Intelligence X | https://intelx.io
+Shodan | http://shodan.io
+ONYPHE | https://www.onyphe.io
+DNSDumpster | https://dnsdumpster.com
+
+## Blue Team Random Stuff
+Name | URL
+------------------------------------ | ---------------------------------------------
+Vulners - Vulnerability Database | https://vulners.com/
+BlueTeamSec Reddit | https://www.reddit.com/r/blueteamsec/
+
+## Red Team Random Stuff
+Name | URL
+------------------------------------ | ---------------------------------------------
+Credential Dumping - MITRE | https://attack.mitre.org/techniques/T1003/
+Unvalidated Redirects and Forwards - OWASPttps://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
+Public AWS Buckets | https://buckets.grayhatwarfare.com
+Linux Privesc w/SUID | https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
+General Privesc Guide | https://delta.navisec.io/privilege-escalation/
+
+
+
 ## Other lists
 Name | URL
 ------------------------------------ | ---------------------------------------------
@@ -23,7 +51,6 @@ Name	|URL
 ------------------------------------ | ---------------------------------------------
 Free programming books | https://github.com/EbookFoundation/free-programming-books
 Recommended Reading | http://dfir.org/?q=node/8
-
 
 
 ## Cheat sheets :+1:
