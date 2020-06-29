@@ -27,7 +27,6 @@ General Privesc Guide | https://delta.navisec.io/privilege-escalation/
 ## Random Stuff
 Name | URL
 ------------------------------------ | -------------------------------------------------------------
-
 List of Major Company Cloud IP Ranges | https://github.com/pry0cc/cloud-ranges/tree/master/companies
 
 ## Other lists
