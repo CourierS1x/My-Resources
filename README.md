@@ -17,14 +17,18 @@ BlueTeamSec Reddit | https://www.reddit.com/r/blueteamsec/
 
 ## Red Team Random Stuff
 Name | URL
------------------------------------- | ---------------------------------------------
+------------------------------------ | ------------------------------------------------------------------------------------------------------------
 Credential Dumping - MITRE | https://attack.mitre.org/techniques/T1003/
 Unvalidated Redirects and Forwards - OWASPttps://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
 Public AWS Buckets | https://buckets.grayhatwarfare.com
 Linux Privesc w/SUID | https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
 General Privesc Guide | https://delta.navisec.io/privilege-escalation/
 
+## Random Stuff
+Name | URL
+------------------------------------ | -------------------------------------------------------------
 
+List of Major Company Cloud IP Ranges | https://github.com/pry0cc/cloud-ranges/tree/master/companies
 
 ## Other lists
 Name | URL
