@@ -1,6 +1,7 @@
 ## Favorites
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Criminalip | https://www.criminalip.io/
 GreyNoise | https://greynoise.io
 URLScan | https://urlscan.io
 Censys | https://censys.io
@@ -592,6 +593,7 @@ Zgrab | https://github.com/zmap/zgrab
 ## Search Engines
 Name | URL
 ------------------------------------ | ---------------------------------------------
+Criminalip | https://www.criminalip.io/
 ZoomEye | https://zoomeye.org/ :star::cn:
 Shodan | https://www.shodan.io/
 Censys | https://censys.io/
